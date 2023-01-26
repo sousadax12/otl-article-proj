@@ -1,0 +1,9 @@
+dependencies:
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 12.1.11
+- name: signoz
+  repository: https://signoz.github.io/charts
+  version: 0.9.1
+digest: sha256:18a66cc23744181c08a0610dc18f0e8e498cd85d92d5b0cf5b8630c9be2471b2
+generated: "2023-01-26T22:10:09.510757Z"
